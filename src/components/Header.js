@@ -19,7 +19,7 @@ const Header = () => {
 	return (
 		<View style={headerContainer}>
 			<Text style={header}>
-				Cryptocurrency App
+				Crypto Tracker
 			</Text>
 		</View>
 	);
